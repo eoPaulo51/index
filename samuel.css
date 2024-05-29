@@ -1,0 +1,61 @@
+body{
+	background-color: white;
+    background-image: url(Imagens/coração.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 40px;
+    color: white;
+}
+#texto1{
+	text-align: center;
+	padding: 10px;
+	font-family: sans-serif;
+	color: white;
+	margin-left: 7px;
+}
+#texto2{
+	text-align: center;
+	margin-right: 26px;
+	font-family: sans-serif;
+	color: white;
+}
+#botao{
+	text-align: center;
+	padding: 10px;
+}
+#results{
+	text-align: center;
+	padding: 10px;
+	color: white;
+}
+li{
+	font-family: sans-serif;
+}
+#sobre{
+    padding: 80px;
+	margin-right: 20px;
+	background-color: darkgrey;
+	border-radius: 10px;
+}
+h2{
+	text-align: center;
+	color: black;
+}
+#texto1, #texto2{
+	margin-top: 20px;
+}
+footer{
+	background-color: purple;
+	padding: 10px;
+	margin-top: 5px;
+	text-align: center;
+	font-size: 12px;
+	color: azure;
+}
+#calculator h2{
+	color: white;
+}
